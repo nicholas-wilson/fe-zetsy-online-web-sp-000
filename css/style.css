@@ -44,19 +44,6 @@ footer p {
   font-size: .7em;
 }
 
-footer ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-footer a {
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 
 footer li {
   float: left;
