@@ -44,9 +44,8 @@ footer p {
   font-size: .7em;
 }
 
-footer a {
-  width: 100%;
-  height: auto;
+footer ul {
+  list-style-type: none;
 }
 
 a:hover {
