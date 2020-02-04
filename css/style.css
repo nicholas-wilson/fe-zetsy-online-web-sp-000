@@ -45,7 +45,7 @@ footer p {
 }
 
 footer ul {
-  list-style-type: none;
+  list-style-type: block;
   overflow: hidden;
 }
 
