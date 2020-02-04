@@ -46,4 +46,5 @@ footer p {
 
 a:hover {
   background: #98aaa4;
+  display: block;
 }
