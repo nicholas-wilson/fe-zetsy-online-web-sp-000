@@ -45,7 +45,8 @@ footer p {
 }
 
 footer a {
-
+  float: left;
+  padding: 10px;
 }
 
 a:hover {
