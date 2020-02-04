@@ -46,13 +46,7 @@ footer p {
 
 footer ul {
   list-style-type: none;
-  overflow: hidden;
-}
-
-
-footer li {
-  float: left;
-  width: auto;
+  display: inline-block;
 }
 
 a:hover {
