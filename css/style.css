@@ -44,6 +44,10 @@ footer p {
   font-size: .7em;
 }
 
+footer a {
+  width: auto;
+  height: auto;
+}
 
 a:hover {
   outline: #98aaa4 solid 4px;
