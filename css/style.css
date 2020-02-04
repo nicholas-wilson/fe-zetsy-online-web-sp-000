@@ -46,6 +46,7 @@ footer p {
 
 footer a {
   padding: 2px;
+  border: none;
 }
 
 a:hover {
