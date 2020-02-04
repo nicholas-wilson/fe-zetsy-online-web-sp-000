@@ -51,7 +51,8 @@ footer ul {
 
 
 footer li {
-
+  float: left;
+  width: 21%;
 }
 
 a:hover {
