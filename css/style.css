@@ -54,6 +54,7 @@ footer ul {
 footer a {
   display: block;
   text-align: center;
+  padding: 14px 16px;
 }
 
 footer li {
