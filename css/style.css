@@ -51,6 +51,11 @@ footer ul {
   overflow: hidden;
 }
 
+footer a {
+  display: block;
+  text-align: center;
+}
+
 footer li {
   float: left;
 }
