@@ -46,10 +46,9 @@ footer p {
 
 footer a {
   padding: 2px;
-  border: none;
+  border
 }
 
 a:hover {
-  background: #98aaa4;
-
+  outline: #98aaa4 solid 4px;
 }
