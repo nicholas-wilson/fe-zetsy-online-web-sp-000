@@ -18,6 +18,9 @@ body {
 }
 
 /* Write all remaining styles here */
+h1 {
+  font-size: 30px;
+}
 
 h1, h2 {
   color: #98aaa4;
