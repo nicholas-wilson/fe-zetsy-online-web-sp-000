@@ -44,6 +44,6 @@ footer p {
   font-size: .7em;
 }
 
-a:hover {
+a:link {
   background-color: #98aaa4;
 }
