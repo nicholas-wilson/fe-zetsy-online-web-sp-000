@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 h1 {
   font-size: 4em;
-  height: 1.5em;
+  height: 100%;
 }
 
 h1, h2 {
